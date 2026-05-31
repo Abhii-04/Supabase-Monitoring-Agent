@@ -147,10 +147,4 @@ If a tool fails or attempts a restricted action, the agent should record the fai
 - **Missing `langchain_mcp_adapters`** — Install with `pip install langchain-mcp-adapters`.
 - **Empty reports** — Check `reports/` permissions; the directory is created automatically if missing.
 
-## License
 
-This repository does not include a license file yet. Add one before redistributing or using in production.
-
-## Contributing
-
-Issues and pull requests are welcome. When changing MCP or tool behavior, keep read-only guarantees and update this README if setup steps change.
