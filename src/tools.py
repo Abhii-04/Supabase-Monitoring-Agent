@@ -32,7 +32,7 @@ async def get_tools():
                 "-y",
                 "@supabase/mcp-server-supabase@latest",
                 "--read-only",
-                "--project-ref=ifxubrjpqsufxkjsomin"
+                "--project-ref=ifxubrjpqsufxkj"
             ],
             "env": {
                 "SUPABASE_ACCESS_TOKEN": supabase
